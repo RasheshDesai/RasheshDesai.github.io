@@ -931,6 +931,17 @@ nav {
     transform: translateY(-5px);
 }
 
+ .certification-link {
+        color: #1e90ff; /* Dodger Blue or any color you like */
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+.certification-link:hover {
+    color: #104e8b; /* Darker blue on hover */
+    text-decoration: underline;
+}
+
 .contact-form {
     flex: 1;
     background: white;
